@@ -4,7 +4,7 @@
 
  🧠 Pursuing a Master's degree in Cognitive Science at [CIMeC - UniTN](https://www.cimec.unitn.it/)<br>
 
- 🔬 Currently working as a research intern at [Bielefeld University](https://www.uni-bielefeld.de/) as part of the [CRC 1646 B02: Computational linguistic creativity in reference games between interactive dialogue agents]([https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/forschung/projekte/crc1646/](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/forschung/projekte/crc1646/area-b-linguistic-creativ/)) project, under the supervision of Professors Hendrik Buschmeier and Sina Zarrieß <br>
+ 🔬 Currently working as a research intern at [Bielefeld University](https://www.uni-bielefeld.de/) as part of the [CRC 1646 B02: Computational linguistic creativity in reference games between interactive dialogue agents](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/forschung/projekte/crc1646/area-b-linguistic-creativ/) project, under the supervision of Professors Hendrik Buschmeier and Sina Zarrieß <br>
 
  👁️ Exploring gaze-inspired solutions for improving MLLMs visual understanding <br>
 
