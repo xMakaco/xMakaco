@@ -8,7 +8,7 @@
 
  👁️ Exploring gaze-inspired solutions for improving MLLMs visual understanding <br>
 
- 💡 I'm interested in the intersection between linguistics🗣️, cognitive science🧠 and formal logic🧮. This include multimodal models, reasoning models, interactive agents and neurosymbolic approaches <br>
+ 💡 I'm interested in the intersection between linguistics🗣️, cognitive science🧠 and formal logic🧮. This includes multimodal models, reasoning models, interactive agents and neurosymbolic approaches <br>
 
  ✉️ You can find me on [LinkedIn](https://www.linkedin.com/in/marika-sarzotti-23b6aa320/) <br>
 
