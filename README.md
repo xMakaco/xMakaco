@@ -1,6 +1,6 @@
 ## About Me 💫 <br>
 
----<br>
+
 
  🧠 Pursuing a Master's degree in Cognitive Science at [CIMeC - UniTN](https://www.cimec.unitn.it/)<br>
 
